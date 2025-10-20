@@ -1,17 +1,16 @@
-div.parent {
-    height: 350px;
-    width: 350px;
-    background-color: rebeccapurple;
-    /* position: relative;
-    top: 10px;
-    left: 10px;
-    bottom: 10px; */
-    border-radius: 200px;
+body {
+    background-color: rgb(37, 36, 36);
 }
-div.child {
-    height: 115px;
-    width: 115px;
-    border-radius: 75px;
-    background-color: rgba(134, 68, 18, 0.872);
-    margin-left: 250px;
+
+.bulb {
+    width: 50px;
+    height: 500px;
+    border: 1.5px solid;
+    border-bottom-left-radius: 550px;
+    border-bottom-right-radius: 550px;
+    border-top-left-radius: 50rem;
+    border-top-right-radius: 50rem;
+    margin-right: 550px;
+    box-shadow: 0 0 110px 30px #fdfdfc;
+    background-color: #fcfbf7;
 }
