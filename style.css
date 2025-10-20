@@ -1,0 +1,17 @@
+div.parent {
+    height: 350px;
+    width: 350px;
+    background-color: rebeccapurple;
+    /* position: relative;
+    top: 10px;
+    left: 10px;
+    bottom: 10px; */
+    border-radius: 200px;
+}
+div.child {
+    height: 115px;
+    width: 115px;
+    border-radius: 75px;
+    background-color: rgba(134, 68, 18, 0.872);
+    margin-left: 250px;
+}
